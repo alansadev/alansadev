@@ -3,8 +3,11 @@
 ## I'm Alan!
 
 🖥️ I'm Node.js Back-End Developer!
+
 🏠 I'm from Brazil.
+
 🌱 I'm currently learning Flutter, React, Typescript and Vue.Js.
+
 📚 I'm graduating in systems analisys and development at the Infnet institute.
 
 ## About me
