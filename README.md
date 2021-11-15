@@ -11,7 +11,7 @@
 
 ## Languages and Tools
 [![alansa90 GitHub stats](https://github-readme-stats.vercel.app/api?username=alansa90&show_icons=true&theme=dark)](https://github.com/alansa90/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansa90&layout-compact&theme=dark)](https://github.com/alansa90/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansa90&layout=compact&theme=dark)](https://github.com/alansa90/github-readme-stats)
 
 
 - Thanks for visiting.
