@@ -11,7 +11,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alandesa/)](https://www.linkedin.com/in/alandesa/)
 
-[![alandesa GitHub stats](https://github-readme-stats.vercel.app/api?username=alansa90)](https://github.com/alansa90/github-readme-stats)
+[![alansa90 GitHub stats](https://github-readme-stats.vercel.app/api?username=alansa90&show_icons=true&theme=dark)
+](https://github.com/alansa90/github-readme-stats)
+
+[![alansa90 GitHub stats](https://github-readme-stats.vercel.app/api?username=alansa90&show_icons=true&theme=dark)](https://github.com/alansa90/github-readme-stats)
 
 
 - Thanks for visiting.
