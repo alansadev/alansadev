@@ -21,7 +21,6 @@
   <p align="center">
     	<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-blue.svg?style=for-the-badge&logo=javascript&logoColor=white" />
     	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    	<img alt="Java" src="https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=java&logoColor=white" />
     	<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     	<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
     	<img alt="C#" src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -36,7 +35,6 @@
   <h3 align="center">Frameworks</h3>
   <p align="center">
     	<img alt="Vue.js" src="https://img.shields.io/badge/VueJS-green.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
-    	<img alt="Spring" src="https://img.shields.io/badge/Spring-green.svg?&style=for-the-badge&logo=spring&logoColor=white" />
     	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-green?style=for-the-badge&logo=flutter&logoColor=white" />
     	<img alt="Next.Js" src="https://img.shields.io/badge/next.js-green?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   </p>
@@ -52,7 +50,7 @@
 	  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-brown?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 	  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-brown?style=for-the-badge&logo=heroku&logoColor=white" />
 	  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-brown.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-brown?style=for-the-badge&logo=mongodb&logoColor=white" />
+          <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-brown?style=for-the-badge&logo=mongodb&logoColor=white" />
   </p>
   
   <h3 align="center">Contact me</h3>
