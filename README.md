@@ -21,9 +21,11 @@
   <p align="center">
     	<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-blue.svg?style=for-the-badge&logo=javascript&logoColor=white" />
     	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    	<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+    	<!--
+	<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     	<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
     	<img alt="C#" src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white" />
+	-->
   </p>
   
   <h3 align="center">Platforms and Libraries</h3>
