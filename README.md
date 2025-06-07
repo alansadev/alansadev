@@ -1,7 +1,7 @@
 # Alan Sá
 
 - I'm graduating in systems analisys and development at the Infnet institute.
-- I'm currently learning Flutter, React, Typescript and Vue.Js.
+- I'm currently learning React and Java.
 - I'm Node.js Back-End Developer!
 - I'm from Brazil.
 
@@ -20,9 +20,10 @@
   <p align="center">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-blue.svg?style=for-the-badge&logo=javascript&logoColor=white" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=java&logoColor=white" />
+    	<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
     <!--
 			<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    	<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
     	<img alt="C#" src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white" />
 		-->
   </p>
@@ -38,11 +39,14 @@
     <img alt="Vue.js" src="https://img.shields.io/badge/VueJS-green.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-green?style=for-the-badge&logo=flutter&logoColor=white" />
     <img alt="Next.Js" src="https://img.shields.io/badge/next.js-green?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img alt="Nest.Js" src="https://img.shields.io/badge/nest.js-green?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img alt="Springboot" src="https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=springboot&logoColor=white" />
   </p>
   
   <h3 align="center">Source Control</h3>
   <p align="center">
 	  <img alt="Git" src="https://img.shields.io/badge/Git-orange.svg?&style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/Github-orange.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </p>
   
   <h3 align="center">Servers</h3>
@@ -56,6 +60,8 @@
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-brown?style=for-the-badge&logo=Kubernetes&logoColor=white" />
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-brown?style=for-the-badge&logo=Terraform&logoColor=white" />
     <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-brown?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-brown?style=for-the-badge&logo=redis&logoColor=white">
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-brown?style=for-the-badge&logo=elasticsearch&logoColor=white">
   </p>
   
   <h3 align="center">Contact me</h3>
