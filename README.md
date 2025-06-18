@@ -1,7 +1,7 @@
 # Alan Sá
 
 - I'm graduating in systems analisys and development at the Infnet institute.
-- I'm currently learning React and Java.
+- I'm currently learning React, NextJS and NestJS.
 - I'm Node.js Back-End Developer!
 - I'm from Brazil.
 
