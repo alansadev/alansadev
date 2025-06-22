@@ -11,7 +11,7 @@
     		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansadev&show_icons=true&count_private=true&include_all_commits=true&theme=onedark"/>
   	</a>
   	<a href="https://github.com/alansadev">
-    		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&count_private=true&theme=onedark&top_langs_count=8"/>
+    		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&theme=onedark&top_langs_count=8"/>
 	</a>
 </p>
   
