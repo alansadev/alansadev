@@ -8,7 +8,7 @@
 <h3 align="center"> Statistics</h3>
 <p align="center">
   	<a href="https://github.com/alansadev">
-    		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansadev&show_icons=true&include_all_commits=true&theme=onedark"/>
+    		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansadev&show_icons=true&include_all_commits=true&count_private=true&theme=onedark"/>
   	</a>
   	<a href="https://github.com/alansadev">
     		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&count_private=true&theme=onedark&top_langs_count=8"/>
