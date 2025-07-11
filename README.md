@@ -12,6 +12,7 @@
   	</a>
   	<a href="https://github.com/alansadev">
     		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&count_private=true&theme=onedark&top_langs_count=8"/>
+	
 	</a>
 </p>
   
