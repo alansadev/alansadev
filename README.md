@@ -8,11 +8,11 @@
 <h3 align="center"> Statistics</h3>
 <p align="center">
   	<a href="https://github.com/alansadev">
-    		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansadev&show_icons=true&include_all_commits=true&theme=onedark&cache_seconds=3600"/>
+    		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alansadev&show_icons=true&include_all_commits=true&&count_private=truetheme=onedark&cache_seconds=3600"/>
   	</a>
 	<br>
   	<a href="https://github.com/alansadev">
-    		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&theme=onedark&top_langs_count=8&cache_seconds=3600"/>
+    		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&theme=onedark&count_private=true&top_langs_count=8&cache_seconds=3600"/>
 	</a>
 </p>
   
