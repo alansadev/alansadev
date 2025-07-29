@@ -22,7 +22,7 @@
     	<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-blue.svg?style=for-the-badge&logo=javascript&logoColor=white" />
     	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" />
     	<img alt="Java" src="https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=java&logoColor=white" />
-    	<img alt="Python" src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+    	<img alt="Go" src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go&logoColor=white" />
   </p>
   
   <h3 align="center">Platforms and Libraries</h3>
