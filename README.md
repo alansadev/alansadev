@@ -15,7 +15,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansadev&layout=compact&theme=tokyonight&count_private=true&top_langs_count=8&cache_seconds=3600"/>
 	</a>
   <a href="https://github.com/alansadev">
-		<img height="180em" src="https://streak-stats.demolab.com/?user=alansadev&theme=bear&background=000&border=30A3DC&dates=FFF"/>
+		<img height="180em" src="https://streak-stats.demolab.com/?user=alansadev&theme=tokyonight&border=30A3DC&dates=FFF"/>
 	</a>
 </p>
 
